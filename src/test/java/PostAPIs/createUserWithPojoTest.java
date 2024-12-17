@@ -26,6 +26,7 @@ public class createUserWithPojoTest {
 	@Test
 	public void addUser()
 	{
+		//Test
 		RestAssured.baseURI="https://gorest.co.in";
 
 		//Create the object of POJO class
